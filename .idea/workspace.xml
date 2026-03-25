@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="269679a1-6540-4e9a-bc1e-5d7e7fb78a44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/two-sum/16/16.最接近的三数之和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two-sum/16/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-sum/18/18.四数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two-sum/18/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algorithm/two-sum/16">
+  <component name="RunManager" selected="Go Build.go build algorithm/two-sum/18">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algorithm-leetcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -69,6 +68,15 @@
       <package value="algorithm/two-sum/16" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/two-sum/16/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algorithm/two-sum/18" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algorithm-leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/two-sum/18" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/two-sum/18/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build algorithm/two-sum/2824" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -92,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algorithm/two-sum/18" />
         <item itemvalue="Go Build.go build algorithm/two-sum/16" />
         <item itemvalue="Go Build.go build algorithm/two-sum/2824" />
       </list>
@@ -103,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(two-sum):2824.统计和小于目标的下标对数目" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(two-sum):2824.统计和小于目标的下标对数目" />
+    <MESSAGE value="feat(two-sum):16.最接近的三数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(two-sum):16.最接近的三数之和" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
